@@ -1,0 +1,4 @@
+jarvis-env/
+__pycache__/
+*.pyc
+nircmd.exe
